@@ -10,7 +10,7 @@ const connect = async function () {
 			console.error(err);
 	}
 };
-
+// test comment
 module.exports = {
 	getAllContinents: async function (req, res, next) {
 		try {
